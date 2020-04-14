@@ -4,7 +4,7 @@ from flask_migrate import Migrate
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 
-#dibuat oleh wildan sania alfiansyah nim : 18090118
+#dibuat oleh Oktavia Dwi Mulyaningsih Nim (18090116)
 
 app = Flask(__name__)
 api = Api(app)
