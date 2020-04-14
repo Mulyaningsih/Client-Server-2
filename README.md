@@ -1,3 +1,1 @@
-# Oktavia Dwi Mulyaningsih
-# 18090116
-# 4B
+# Oktavia Dwi Mulyaningsih - 18090116 - 4B
